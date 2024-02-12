@@ -8,7 +8,8 @@
   "host": "socialmedia-api-v1.onrender.com",
   "basePath": "/",
   "schemes": [
-    "http"
+    "http",
+    "https"
   ],
   "paths": {
     "/auth/register": {
