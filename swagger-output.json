@@ -5,7 +5,7 @@
     "description": "Social Media Api",
     "version": "1.0.0"
   },
-  "host": "localhost:8001",
+  "host": "https://socialmedia-api-v1.onrender.com",
   "basePath": "/",
   "schemes": [
     "http"
