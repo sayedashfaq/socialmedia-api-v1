@@ -11,6 +11,7 @@ import multer from "multer";
 import authRoutes from "./routes/auth.js";
 import userRoutes from "./routes/user.js";
 import postRoutes from "./routes/post.js";
+import postModel from "./models/post.js";
 // import uploadRoute from "./routes/upload.js";
 
 const app = express();
